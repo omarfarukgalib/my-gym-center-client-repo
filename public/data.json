@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Skiing, water skiing",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 354,
+    "duration_minutes": 10,
+    "total_calories": 354,
+    "age":"17-19",
+    "url": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149_960_720.jpg"
+  },
+  {
+    "name": "Cross country snow skiing, slow",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 413,
+    "duration_minutes": 15,
+    "total_calories": 413,
+    "age":"19-21",
+    "url": "https://cdn.pixabay.com/photo/2017/07/02/19/24/dumbbells-2465478_960_720.jpg"
+  },
+  {
+    "name": "Cross country skiing, moderate",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 472,
+    "duration_minutes": 9,
+    "total_calories": 472,
+    "age":"21-23",
+    "url":"https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?cs=srgb&dl=pexels-victor-freitas-841130.jpg&fm=jpg"
+  },
+  {
+    "name": "Cross country skiing, vigorous",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 531,
+    "duration_minutes": 7,
+    "total_calories": 531,
+    "age":"23-25",
+    "url":"https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?cs=srgb&dl=pexels-william-choquette-1954524.jpg&fm=jpg"
+  },
+  {
+    "name": "Cross country skiing, racing",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 826,
+    "duration_minutes": 5,
+    "total_calories": 826,
+    "age":"25-27",
+    "url":"https://images.pexels.com/photos/176782/pexels-photo-176782.jpeg?cs=srgb&dl=pexels-keiji-yoshiki-176782.jpg&fm=jpg"
+  },
+  {
+    "name": "Cross country skiing, uphill",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 974,
+    "duration_minutes": 2,
+    "total_calories": 974,
+    "age":"27-29",
+    "url":"https://images.pexels.com/photos/4720236/pexels-photo-4720236.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4720236.jpg&fm=jpg"
+  },
+  {
+    "name": "Snow skiing, downhill skiing, light",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 295,
+    "duration_minutes": 4,
+    "total_calories": 295,
+    "age":"29-31",
+    "url":"https://images.pexels.com/photos/45056/pexels-photo-45056.jpeg?cs=srgb&dl=pexels-dom-j-45056.jpg&fm=jpg"
+  },
+  {
+    "name": "Downhill snow skiing, moderate",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 354,
+    "duration_minutes": 8,
+    "total_calories": 354,
+    "age":"31-33",
+    "url":"https://images.pexels.com/photos/2011384/pexels-photo-2011384.jpeg?cs=srgb&dl=pexels-johnny-garcia-2011384.jpg&fm=jpg"
+  },
+  {
+    "name": "Downhill snow skiing, racing",
+    "details":"Thousands of people have benefitted from therapy With BetterHelp, you can switch therapists at any point if you don't feel you are getting enough benefit.",
+    "calories_per_hour": 472,
+    "duration_minutes": 13,
+    "total_calories": 472,
+    "age":"33-35",
+    "url":"https://images.pexels.com/photos/28080/pexels-photo.jpg?cs=srgb&dl=pexels-scott-webb-28080.jpg&fm=jpg"
+  }
+]

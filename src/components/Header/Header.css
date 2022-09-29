@@ -1,0 +1,10 @@
+.header{
+    color:blue;
+    background-color: orange;
+    text-align: center;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    position: relative;
+    top:10px;
+}
