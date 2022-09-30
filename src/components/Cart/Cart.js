@@ -3,7 +3,7 @@ import './Cart.css'
 const Cart = (props) => {
     
     const {cart} = props
-    const {addMinClick1,addMinClick2,addMinClick3,addMinClick4,btnClicked} = props;
+    const {addMinClick1,addMinClick2,addMinClick3,addMinClick4} = props;
     const {brk,brk2,brk3,brk4} = props
     
   
@@ -30,7 +30,7 @@ const Cart = (props) => {
           <h3>Exercise Details</h3>
             <h3 className='h3'>Exercise Time <span>{cart} min</span></h3>
             <h3 className='h4'>Break Time <span>{brk}{brk2}{brk3}{brk4}</span></h3>
-            <button onClick={()=>btnClicked()}>Acitivity completed</button>
+            <button id="activity-btn">Acitivity completed</button>
         </div>
         
     );

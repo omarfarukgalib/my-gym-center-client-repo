@@ -28,8 +28,9 @@
     padding: 10px;
 }
 #activity-btn{
-    border-radius: 0;
+  
     width: 240px;
+    border-radius: 0;
     font-size: large;
     font-weight: bold;
 }

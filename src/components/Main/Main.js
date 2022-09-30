@@ -46,9 +46,7 @@ const Main = () => {
   setBreak4(time)
   
  };
- const btnClicked = () => {
-  alert('working has been done')
- }
+ 
     return (
         <div className='main'>
           
@@ -69,7 +67,7 @@ const Main = () => {
             addMinClick2={addMinClick2} 
             addMinClick3={addMinClick3} 
             addMinClick4={addMinClick4} 
-            btnClicked={btnClicked}
+           
             ></Cart>
             </div>
           <Extra></Extra>
