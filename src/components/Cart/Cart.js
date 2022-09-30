@@ -1,6 +1,12 @@
 import React from 'react';
 import './Cart.css'
-const Cart = () => {
+const Cart = (props) => {
+    
+    const {cart} = props
+    const {addMinClick1,addMinClick2,addMinClick3,addMinClick4,btnClicked} = props;
+    const {brk,brk2,brk3,brk4} = props
+    
+  
     return (
         <div className='cart'>
             <div className='sub-cart'>
@@ -16,15 +22,15 @@ const Cart = () => {
             <h3>Add a break</h3>
             
           <div className='btn-1'>
-          <button>5min</button>
-            <button>8min</button>
-            <button>10min</button>
-            <button>13min</button>
+          <button onClick={()=>addMinClick1(5)}>5min</button>
+            <button onClick={()=>addMinClick2(8)}>8min</button>
+            <button onClick={()=>addMinClick3(10)}>10min</button>
+            <button onClick={()=>addMinClick4(13)}>13min</button>
           </div>
           <h3>Exercise Details</h3>
-            <h3 className='h3'>Exercise Time<span></span></h3>
-            <h3 className='h4'>Break Time<span></span></h3>
-            <button id='activity-btn'>Acitivity completed</button>
+            <h3 className='h3'>Exercise Time <span>{cart} min</span></h3>
+            <h3 className='h4'>Break Time <span>{brk}{brk2}{brk3}{brk4}</span></h3>
+            <button onClick={()=>btnClicked()}>Acitivity completed</button>
         </div>
         
     );
